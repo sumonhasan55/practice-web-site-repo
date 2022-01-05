@@ -9,23 +9,24 @@ span{
     color: #ff7f50;
 
 }
-section{
+.flex-container{
     display: flex;
-    margin-bottom: 30px;
+
+    
     
 
 }
-div{
+.root-clas{
     width: 50%;
+}
+div{
+
 }
 
   p{
       text-align: justify;
       padding: 10px;
   }  
-
-    
-
 a{
     color:white;
     text-decoration: none;
@@ -34,4 +35,26 @@ a{
 button{
     background-color: chocolate;
     position: flex;
+}
+.last-part{
+    display: flex;
+    text-align: justify;
+}
+.seser-pra{
+    
+    width: 50%;
+}
+footer{
+    text-align: center;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+
+}
+#developer-class{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+
 }
