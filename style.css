@@ -6,14 +6,32 @@ head{
     font-family: 'Righteous', cursive;
 }
 span{
-    color: coral;
+    color: #ff7f50;
 
 }
 section{
     display: flex;
+    margin-bottom: 30px;
     
 
 }
 div{
     width: 50%;
+}
+
+  p{
+      text-align: justify;
+      padding: 10px;
+  }  
+
+    
+
+a{
+    color:white;
+    text-decoration: none;
+    padding: 35px;
+}
+button{
+    background-color: chocolate;
+    position: flex;
 }
